@@ -1,0 +1,17 @@
+{
+  "name": "my_curriculum",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "html2pdf.js": "^0.9.0",
+    "my_curriculum": "file:",
+    "puppeteer": "^23.11.1"
+  }
+}

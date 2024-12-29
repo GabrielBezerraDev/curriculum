@@ -43,7 +43,15 @@ body {
     display: flex;
     flex-direction: column;
     padding: 20px;
+}
+
+.page-2 .second-column{
     gap: 30px;
+}
+
+
+.page-1 .second-column{
+    gap: 20px;
 }
 
 .page-2 .first-column{
